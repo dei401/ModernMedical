@@ -1,0 +1,47 @@
+This is a test.
+Prior to any phone screens, we do kind of a little "precursor" or "Step 0" to our interviewing process.   Please have David follow the instructions below and then email Jey Donovan at jdonovan@modernmedical.com, the link to their github account so that he can pull the code and examine it.
+ 
+1. Create a Free GitHub account (if candidate does not already have one).  There is a VERY easy walkthrough available at http://help.github.com/win-set-up-git/
+2. Create a C# Console Application
+  a. Have the program go through the numbers 1 to 100 (inclusive)
+  b. If the number is divisible by 3 only, output Modern
+  c. If the number is divisible by 5 only, output Medical
+  d. If the number is divisible by both 3 and 5, output ModernMedical
+  e. If the number is not divisible by either 3 or 5, only output the number itself.
+  f. The correct output for the first 20 of the 100 numbers should look like:
+ 
+  1
+  2
+  Modern
+  4
+  Medical
+  Modern
+  7
+  8
+  Modern
+  Medical
+  11
+  Modern
+  13
+  14
+  ModernMedical
+  16
+  17
+  Modern
+  19
+  Medical
+ 
+3. Push the C# console application with the candidate's answer to that problem into their remote GitHub repository.
+4. Push the candidate's resume into their same GitHub repository (a separate push from the project push).
+5. Send us a link to the repository so that we can examine the code.
+6. If this goes well, we will consider a phone interview as the next step.
+ 
+Please remember that time to complete this task is important, as well as the quality of the code that they write.  Jey will make a decision very quickly after receiving the link to the repository on moving forward with a phone interview or not.
+ 
+Thanks
+ 
+Kelly
+
+
+
+Thank you Jey for the second opportunity.
